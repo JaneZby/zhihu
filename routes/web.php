@@ -29,3 +29,4 @@ Route::resource('questions', 'QuestionsController', ['names' => [
         'show' => 'question.show'
     ]
 ]);
+
